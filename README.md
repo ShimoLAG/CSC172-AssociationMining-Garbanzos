@@ -125,7 +125,7 @@ A boolean matrix where rows are unique Users and columns are available Shop Item
 The Apriori algorithm is expected to identify key purchasing behaviors within the mobile game ecosystem. By filtering for high **Lift**, I aim to distinguish between generic popular items (like basic currency) and specific strategic purchase combinations (like specific character builds).
 
 ## 7. Video Presentation
-*[Link to YouTube/Drive Demo Video will be inserted here]*
+*(https://drive.google.com/drive/folders/1mVK49_GGvbOlhoR8rmKD8TSyQQSJMZA5?usp=sharing)*
 
 ## References
 1. mlxtend Documentation: https://rasbt.github.io/mlxtend/
